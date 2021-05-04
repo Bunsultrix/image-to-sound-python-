@@ -1,5 +1,5 @@
-from PIL import Image
-from gtts import gTTS
+from PIL import Image          
+from gtts import *
 from pytesseract import image_to_string
 
 
